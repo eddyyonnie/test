@@ -10,6 +10,7 @@ $(document).ready(function(){
  if(add>=60){
    document.getElementById("return").innerHTML="Perfect score Mind star.You might just be the next BILL GATES."
    alert("scroll down to get feedback")
+   prompt("What's the name of our champion today.")
  }
  else if(add<60 && add>=40){
    document.getElementById("return").innerHTML="Averagely done.You qualify to move to the next step."
@@ -17,7 +18,7 @@ $(document).ready(function(){
  }
  else{
    document.getElementById("return").innerHTML="Sorry!Your perfomance does not allow you to move to the next step.You will have to re-do the test."
-   alert("click the scroll to down then click re-do")
+   alert("scroll down to see what next")
  }
 
 $("#place").text("You've got"+" "+ add +"%")

@@ -22,3 +22,10 @@
   margin-left:70px;
   margin-right:70px;
 }
+label{
+  cursor:pointer;
+}
+label:hover{
+  text-decoration:underline;
+  color:blue;
+}
