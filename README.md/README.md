@@ -2,7 +2,7 @@
 #### The best way to find out how well you fair in js content.
 #### By **{Eddy Yonnie}**
 ## Description
-* This is a programme that prompts the user to answer by choosing from the multiple choices provided.
+* This is a programme that prompts the user to answer by choosing from the multiple choices provided.IT also informs the user of the test's outcome and what next step to be taken.
 ## Setup/Installation Requirements
 * PC
 * atom
@@ -22,6 +22,7 @@
 * Bootstrap
 * Jquery
 ## Link to live site on the output of the project
+https://github.com/eddyyonnie/test.git
 #### Contacts for further informing on the test system:
 * phone-number: 0790538630
 * email: eddyyonnie@gmail.com
