@@ -22,7 +22,7 @@
 * Bootstrap
 * Jquery
 ## Link to live site on the output of the project
-https://github.com/eddyyonnie/test.git
+https://eddyyonnie.github.io/test
 #### Contacts for further informing on the test system:
 * phone-number: 0790538630
 * email: eddyyonnie@gmail.com
