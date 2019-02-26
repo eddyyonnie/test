@@ -1,3 +1,4 @@
+//Business Logic
 $(document).ready(function(){
   $(".choose").submit(function(event){
     event.preventDefault();
@@ -20,7 +21,7 @@ $(document).ready(function(){
    document.getElementById("return").innerHTML="Sorry!Your perfomance does not allow you to move to the next step.You will have to re-do the test."
    alert("scroll down to see what next")
  }
-
+//User Interface
 $("#place").text("You've got"+" "+ add +"%")
   });
 });
